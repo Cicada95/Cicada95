@@ -1,8 +1,15 @@
-👋 Hi there
-I am a Front-End Developer passionate about learning and working with new tech. 
-Right now mainly working on projects based on Solana and Ethereum
-
-🔭 I’m currently working with ReactJS, NextJS, Typescript.
-⚡ Available for Freelance projects.
-📫 Reach me at
+Hi there
+<br/>
+<br/>
+I am Front-End Developer passionate about learning and working with new tech. 
+<br/>
+Right now mainly working on crypto projects based on Solana and Ethereum
+<br/>
+<br/>
+ReactJS, NextJS, Typescript, Graphql, ChakraUI
+<br/>
+<br/>
+Available for Freelance projects.
+<br/>
+Reach me at
 [Linkedin](https://www.linkedin.com/in/rokassimkus/)
