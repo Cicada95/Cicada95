@@ -1,6 +1,6 @@
 Hi there
 <br/>
-[![Cicada GitHub stats](https://github-readme-stats.vercel.app/api?username=Cicada95)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cicada95&count_private=true)
 <br/>
 I am Front-End Developer passionate about learning and working with new tech. 
 <br/>
