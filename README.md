@@ -1,6 +1,6 @@
 Hi there
 <br/>
-![Cicada95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cicada95&hide=stars,prs,issues&?count_private=true)
+![Cicada95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cicada95&hide=stars,prs,issues&count_private=true)
 <br/>
 I am Front-End Developer passionate about learning and working with new tech. 
 <br/>
