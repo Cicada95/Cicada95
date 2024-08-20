@@ -11,4 +11,4 @@ Available for Freelance projects.
 Reach me at
 [Linkedin](https://www.linkedin.com/in/rokassimkus/)
 
-https://www.rokassimkus.com
+http://www.rokassimkus.com
