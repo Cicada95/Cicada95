@@ -18,3 +18,5 @@ Personal projects:
 https://www.cinepair.io/
 
 <img src="https://jadyunctgrtjdpkqpwoa.supabase.co/storage/v1/object/public/game_modes/cinepair.png?t=2024-10-06T20%3A24%3A16.806Z" width="200" /> 
+
+Decode emoji films, guess quirky plots, match movie stars, and more! Challenge your cinema knowledge.
