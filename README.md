@@ -3,7 +3,7 @@ Hi there
 <br/>
 Front-End Developer passionate about learning and working with new tech 
 <br/>
-ReactJS, NextJS, Typescript, Graphql, ChakraUI is my jam !
+ReactJS, NextJS, Typescript, Scss modules, Zustand, Supabase, Vercel is my jam !
 <br/>
 <br/>
 Available for Freelance projects.
